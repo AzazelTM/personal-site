@@ -1,0 +1,32 @@
+baseURL = ''
+languageCode = 'es'
+title = 'Adolfo Banegas '
+theme = 'digitalgarden'
+
+[menu]
+[[menu.main]]
+    name = 'Inicio'
+    url = '/'
+    weight = 1
+[[menu.main]]
+    name = 'Contenido'
+    params.header = true
+    weight = 2
+[[menu.main]]
+    name = 'Articulos'
+    url = '/articles'
+    weight = 3
+[[menu.main]]
+    name = 'Proyectos'
+    url = '/projects'
+    weight = 3
+[[menu.main]]
+    name = 'Laboratorios'
+    url = '/labs'
+    weight = 3
+
+[[menu.social]]
+    name = 'Twitter'
+    url = 'https://twitter.com'
+    weight = 1
+
