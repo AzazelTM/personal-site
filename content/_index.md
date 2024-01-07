@@ -4,7 +4,7 @@ title: Bienvenido
 
 # Hey! Hola 👋
 
-**Bienvenido a mi Digital Garden**
+**Bienvenido(a) a mi Digital Garden**
 ************
 Soy Adolfo, estudiante de Ingeniería Eléctrica Industrial en la UNAH y empedernido geek que ama el proceso de creación de nuevos conocimientos.
 
