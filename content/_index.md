@@ -2,19 +2,22 @@
 title: Bienvenido
 ---
 
-# Hello 👋
+# Hey! Hola 👋
 
-**Welcome to my digital garden!**
+**Bienvenido a mi Digital Garden**
+************
+Soy Adolfo, estudiante de Ingeniería Eléctrica Industrial en la UNAH y empedernido geek que ama el proceso de creación de nuevos conocimientos.
 
-A digital garden is like a personal wiki and a knowledge database of thoughts and ideas. Similar to a traditional garden, a digital one will also container various kinds of content (plants), of which may even be unrelated to each other. Ideas are not refined, thoughts are not tailored. Here is an excellent write-up about the [history of digital gardens](https://maggieappleton.com/garden-history)
+Recientemente me encontré con la idea de los `Digital Gardens`, pequeños espacios en la web donde uno puede plantar ideas para los lectores interesados, y para sí mismo de algún futuro. Con el fin de documentar mi progreso en proyectos y mis ideas locas he decidio crear mi propio Digital Garden.
 
+Estos se estarán documentando en las secciones de _Articulos_ y _Proyectos_. Puedes revisarlos en:
 
-Twitter, for some, is also equivalent to a digital garden. It lets you share thoughts and ideas with everyone. But how often do you go back to those tweets? Not often. That's why you need a space for your ideas on the internet **that you own**. Check out `Digital gardens let you cultivate your own little bit of the internet` [post](https://www.technologyreview.com/2020/09/03/1007716/digital-gardens-let-you-cultivate-your-own-little-bit-of-the-internet/) by MIT technology review 
+→ :comet: [Articulos](/articles)
 
-<hr />
+→ :man_factory_worker: [Proyectos](/projects)
 
-Building your own digital garden is not a fad. It's a necessity. Tools like Roam Research, Obsidian and Notion provided means to interlink content, even over a graphical way. Still not sold? Check out [The Digital Garden](https://dev.to/jbranchaud/the-digital-garden-l10) by Josh Branchaud.
+Además, también dedicaré una sección para subir articulos relacionados con los laboratorios que imparto. 
 
-Start collecting your ideas 💡, curate thought provoking & interesting content 💬&nbsp; and learn.
+→ :man_technologist: [Laboratorios](/labs)
 
-→ [Go to Documentation](/articles)
+Si estás interesado en leer más respecto a los Digital Gardens (a veces llamados Mind Gardens) te dejo este [Post](https://dev.to/jbranchaud/the-digital-garden-l10) :smile:.

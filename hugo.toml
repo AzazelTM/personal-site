@@ -1,7 +1,13 @@
 baseURL = ''
 languageCode = 'es'
-title = 'Adolfo Banegas '
+title = 'Ceiba Pentandra Garden'
 theme = 'digitalgarden'
+enableEmoji = true
+
+[Params]
+  description = "My Digital Garden on the Internet"
+  images = ['images/digital-garden-logo.png']
+  enableSearch = true
 
 [menu]
 [[menu.main]]
@@ -19,11 +25,11 @@ theme = 'digitalgarden'
 [[menu.main]]
     name = 'Proyectos'
     url = '/projects'
-    weight = 3
+    weight = 4
 [[menu.main]]
     name = 'Laboratorios'
     url = '/labs'
-    weight = 3
+    weight = 5
 
 [[menu.social]]
     name = 'Twitter'
