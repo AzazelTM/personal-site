@@ -6,8 +6,8 @@ enableEmoji = true
 
 [Params]
   description = "My Digital Garden on the Internet"
-  images = ['images/digital-garden-logo.png']
-  enableSearch = true
+  enableSearch = false
+  favicon = "/favicon.ico"
 
 [menu]
 [[menu.main]]
