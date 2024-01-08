@@ -8,7 +8,7 @@ title: Bienvenido
 ************
 Soy Adolfo, estudiante de Ingeniería Eléctrica Industrial en la UNAH y empedernido geek que ama el proceso de creación de nuevos conocimientos.
 
-Recientemente me encontré con la idea de los `Digital Gardens`, pequeños espacios en la web donde uno puede plantar ideas para los lectores interesados, y para sí mismo de algún futuro. Con el fin de documentar mi progreso en proyectos y mis ideas locas he decidio crear mi propio Digital Garden.
+Recientemente me encontré con la idea de los `Digital Gardens`, pequeños espacios en la web donde uno puede plantar ideas para los lectores interesados, y para sí mismo de algún futuro. Con el fin de documentar mi progreso en proyectos y mis ideas locas he decidido crear mi propio Digital Garden.
 
 Estos se estarán documentando en las secciones de _Articulos_ y _Proyectos_. Puedes revisarlos en:
 
