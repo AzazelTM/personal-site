@@ -59,7 +59,7 @@ También se pueden agregar categorías tales como costo económico asociado, y c
 
 Selecciona muestras específicas de datos para un análisis más detallado. Puedes enfocarte en casos extremos, casos típicos o ejemplos que ilustren ciertos patrones.
 
-4. **Matriz de Cualitativa**
+4. **Matriz de Análisis**
 
 Crea una matriz de codificación que relacione las categorías con segmentos específicos de datos. Esto facilitará la organización y referencia cruzada durante el análisis.
 
