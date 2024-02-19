@@ -10,7 +10,7 @@ Aquí veremos cómo. Atentos.
 
 ### Definición
 
-Les dejo la que más me gusto :smile: :
+Les dejo la que más me gustó :smile: :
 
 > Análisis de resultados es el proceso de examinar y evaluar datos obtenidos de experimentos, investigaciones o pruebas para extraer conclusiones significativas y tomar decisiones informadas.
 
