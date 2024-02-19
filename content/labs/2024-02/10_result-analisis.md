@@ -83,7 +83,7 @@ Otros videos recomendados:
 {{<youtube w8UD6lRAF0E>}}
 
 
-#### Análisis Cuantitativo
+### Análisis Cuantitativo, cómo se hace?
 
 1. **Familiarización con los Datos.**
 
