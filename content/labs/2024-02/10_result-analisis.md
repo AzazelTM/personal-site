@@ -132,11 +132,11 @@ Esta función nos da un valor porcentual que nos dice que tan desviada está nue
 
 Puede también ser de gran ayuda tener siempre a la mano métodos de regresión para utilizar en el caso sea necesario. Esto nos ayuda a obtener una función que describa el comportamiento de nuestro fenómeno y a hacer futuras predicciones.
 
-Revisión lineal:
+Regresión lineal:
 
 {{<youtube znzV1cyH5Gs>}}
 
-Revisión exponencial:
+Regresión exponencial:
 
 {{<youtube s85-2syA52A>}}
 
